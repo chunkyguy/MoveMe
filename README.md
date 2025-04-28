@@ -10,6 +10,6 @@ The goal of the exercise:
 - On Touch Up the selected square(s) color restores to `blue` and scales down to `1.0`
 
 ## Blogs
-- https://whackylabs.com/swift/swiftui/ios/animation/2024/09/12/moveme-swiftui-edition/
-- https://whackylabs.com/swift/uikit/ios/animation/2024/09/11/coordinating-multiple-gesture-recognizers/
-- https://whackylabs.com/js/reactnative/animation/2024/08/15/let-reanimate/
+- [Swift UI](https://whackylabs.com/swift/swiftui/ios/animation/2024/09/12/moveme-swiftui-edition/)
+- [UIKit](https://whackylabs.com/swift/uikit/ios/animation/2024/09/11/coordinating-multiple-gesture-recognizers/)
+- [React Native](https://whackylabs.com/js/reactnative/animation/2024/08/15/let-reanimate/)
